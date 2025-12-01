@@ -14,14 +14,23 @@ It also includes an **interactive GUI** to draw digits and predict using all thr
 
 DeepLearningProject/
 │
+
 ├─ mnist_cnn_keras.h5 # Trained Keras CNN model
+
 ├─ mnist_cnn_pytorch.pt # Trained PyTorch CNN model
+
 ├─ W1.npy, b1.npy, W2.npy, b2.npy, W3.npy, b3.npy # Low-level TF weights
+
 ├─ train_and_run_all.py # All-in-one training & GUI script
+
 ├─ draw_and_predict_all.py # GUI script (if used separately)
+
 ├─ mnist_tf_raw.py # Low-level TF training script
+
 ├─ mnist_cnn_pytorch.py # PyTorch training script
+
 ├─ mnist_cnn.py # Keras training script
+
 └─ README.md # This file
 ---
 
